@@ -4,7 +4,7 @@ print("---------------------------")
 print("|                         |")
 print("|  Mail Sender            |")
 print("|  Version 1.0 by Marek_p |")
-print("|                         |")
+print("|                         |") 
 print("---------------------------")
 
 sender_email = "váš gmail"
